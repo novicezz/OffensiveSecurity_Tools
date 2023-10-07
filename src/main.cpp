@@ -1,7 +1,8 @@
 #include <iostream>
+#include <inputloop.hpp>
 
 int main() {
 
-    std::cout << "qeggegqr" << std::endl;
+    input_loop();
     return 0;
 }
